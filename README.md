@@ -1,10 +1,11 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/lionkiller900/Donald-file) 
 
-Welcome USER_NAME,
+<a href="">
+    <img src="https://i.pinimg.com/236x/81/9e/1f/819e1fa509c7e73a6a6ef1abcd5667c3--fitness-quotes-fitness-motivation.jpg" alt= "Saiyan's Gym" title="Saiyan's Gym" height= "250" />
+<a/>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+## Saiyan's Gym is a small start-up gym made by myself, a successful Software Engineer. The gym is for the faint-hearted geeks and nerds who want to become alpha males and females. ALL STRONG AND ABLE BODIED ARE WELCOME!
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
 
