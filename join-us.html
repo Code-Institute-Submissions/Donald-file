@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></script>
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Saiyan Gym</title>
+</head>
+<body id="bg1">
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="index.html"><h2>Saiyan's<img src="https://image.shutterstock.com/image-illustration/bodybuilding-fitness-sport-emblem-made-600w-781059232.jpg" height="90" width="90">Gym</h2></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="characters.html">Characters</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="exercise.html" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Exercises
+                    </a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                        <a class="dropdown-item" href="introduction.html">introduction</a>
+                        <a class="dropdown-item" href="press-up.html">Press Up</a>
+                        <a class="dropdown-item" href="bench-press.html">Brench Press</a>
+                        <a class="dropdown-item" href="curls-and-extensions.html">Curls and Extensions</a>
+                        <a class="dropdown-item" href="squats.html">Squats</a>
+                        <a class="dropdown-item" href="abs.html">Ab Exercises</a>
+                        <a class="dropdown-item" href="cardio-workout.html">CARDIO WORKOUTS</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="join-us.html">Join Us</a>
+                </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section>
+    <div class="container">
+        <div class="row">
+        <div class="col bg1">
+            <h2 id="Bungee-Shade">Join Us</h2>
+                <p id="modak">Wanna unleash your Super Saiyan? Why don't you join us by filling the form below.</p>
+        <form action="/action_page.php">
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" class="form-control" id="name" placeholder="Name" name="name">
+    	</div>
+        <div class="form-group">
+            <label for="sname">Surnname:</label>
+            <input type="text" class="form-control" id="sname" placeholder="Surnname"  name="sname">
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
+        </div>
+        <div class="form-group">
+            <label for="pwd">Password:</label>
+            <input type="password" class="form-control" id="pwd" placeholder="Enter password" name="pswd">
+        </div>
+        <div class="form-group">
+            <label for="retype-pwd">Retype-Password:</label>
+            <input type="password" class="form-control" id="re-pwd" placeholder="Re-Enter password" name="re-pwd">
+        </div>
+
+        <div class="form-group form-check">
+            <label class="form-check-label">
+            <input class="form-check-input" type="checkbox" name="remember"> Remember me
+            </label>
+        </div>
+        <div class="form-group">
+        <label for="comment">Comment:</label>
+        <textarea class="form-control" rows="5" id="comment"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+        </div>
+
+        <div class="col">
+            <img src="https://i.pinimg.com/564x/8d/65/ce/8d65cec2a3a09de1700c9c0256d56fe0.jpg" width="390px" height="600px"><br>
+                <p class="j_us">Better to train like Zoro instead of acting like Yajirobe!!.</p>
+        </div>
+        </div>
+    </div>
+    </section>
+    
+        <footer class="page-footer font-small mdb-color pt-4" id="footer_color">
+        <div class="container text-center text-md-left">
+        <div class="row text-center text-md-left mt-3 pb-3">
+      
+        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+        <h6 class="text-uppercase mb-4 font-weight-bold">Saiyan's Gym</h6>
+        <p id="comic-like">You can connect us via social media and have a good chart with any memeber of the team.</p>
+        </div>
+
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
+        <p>
+          <i class="fas fa-home mr-3"></i> LONDON, UK</p>
+        <p>
+          <i class="fas fa-envelope mr-3"></i> saiyansgym@gmail.com</p>
+        <p>
+          <i class="fas fa-phone mr-3"></i> 08001112222</p>
+        <p>
+          <i class="fas fa-print mr-3"></i> 08001113333</p>
+      </div>
+
+    </div>
+
+    <div class="row d-flex align-items-center">
+      <div class="col-md-7 col-lg-8">
+        <p class="text-center text-md-left">© 2020 Copyright:
+          <a href="https://saiyansgym.com/">
+            <strong> Saiyan'sgym.com</strong>
+          </a>
+        </p>
+
+      </div>
+    <div class="container">
+
+    <!-- Social buttons -->
+    <ul class="list-unstyled list-inline text-center">
+      <li class="list-inline-item">
+        <a class="btn-floating btn-fb mx-1">
+          <i class="fab fa-facebook-f"> </i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a class="btn-floating btn-tw mx-1">
+          <i class="fab fa-twitter"> </i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a class="btn-floating btn-gplus mx-1">
+          <i class="fab fa-google-plus-g"> </i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a class="btn-floating btn-li mx-1">
+          <i class="fab fa-linkedin-in"> </i>
+        </a>
+      </li>
+      <li class="list-inline-item">
+        <a class="btn-floating btn-dribbble mx-1">
+          <i class="fab fa-dribbble"> </i>
+        </a>
+      </li>
+    </ul>
+    <!-- Social buttons -->
+    </div>
+
+    </div>
+
+  </div>
+
+</footer> 
+</body>
+</html>

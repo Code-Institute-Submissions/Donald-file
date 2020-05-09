@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim|Anton|Bangers|Berkshire+Swash|Bubblegum+Sans|Bungee+Shade|Chicle|Comic+Neue:700|Delius|Gotu|Indie+Flower|Lobster|Modak|Open+Sans:600|Pacifico|Permanent+Marker|Roboto&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border:0;
+}
+
+
+
+#bg {
+    background-image: url("https://wallpapermemory.com/uploads/254/dark-abstract-background-hd-1400x1050-322564.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 200px;
+    background-position: center;
+}
+
+h2{
+   font-style: oblique;
+   font-weight: bold;
+   font-family: Akronim;
+   letter-spacing: 4px;
+   margin: 3px;
+   font-size: 25px;
+}
+
+
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    align-items: right;
+    position: relative;
+    z-index: 2;
+}
+
+ul li {
+    float: right;
+    width: 100px;
+    height: 40px;
+    background-color: rgba(83, 126, 167, 0.808);
+    opacity: .75;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    z-index: 4;
+}
+
+ul li a {
+    text-decoration: none;
+    color:rgb(191, 202, 192);
+    display: block;
+    z-index: 4;
+}
+
+ul li a:hover {
+    background-color: yellowgreen;
+}
+
+body, html {
+  height: 100%;
+}
+
+.home-container {
+    font-size: 30px;
+    font-family: Bubblegum Sans;
+    margin-top: 20px;
+    color: white;
+}
+
+.home-font-design {
+    float: left;
+    margin: 1px;
+    background-size: cover;
+    text-align: center;
+}
+
+.lightsteel-blue {
+    border: none;
+    height: 100%;
+    width: 300%;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.lightsteel-blue-size {
+    height: 400px;
+    width: 265px;
+    opacity: 0.6;
+    margin-right: 25px;
+}
+
+
+.lightsea-blue {
+    background-color: LightSeaGreen;
+    border: none;
+    height: 100%;
+    width: 296px;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.wheat {
+    border: none;
+    height: 100%;
+    width: 300%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.container-box{
+    background-color: snow;
+    font-size: 40px;
+    font-family: Permanent Marker;
+    font-style: bold;
+    color: white;
+    text-align: center;
+}
+
+.colour-bull{
+    opacity: 0.9;
+    background-size: cover;
+    border: none;
+    height: 400px;
+    width: 300px;
+    float: right;
+    margin-top: 29px;
+}
+
+.black-box{
+    background: black;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.colour-bull2 {
+    opacity: 0.9;
+    background-size: cover;
+    border: none;
+    height: 400px;
+    width: 300px;
+    margin-top: 30px;
+    margin-left: 2px;
+}
+
+#comic-like {
+    font-family: Comic Neue;
+    font-style: bold;
+}
+
+.whatsthe-gym {
+    background-color: rgb(117, 124, 200);
+    /*margin-top: 25px*/;
+    font-family: Bangers;
+    font-size: 30px;
+    margin: 2px;
+    opacity: 0.9;
+    margin-top: 20px;
+
+}
+
+.gym-spacing-blue {
+    margin-right: 10px;
+    background-color: CornflowerBlue;
+}
+
+
+.square1 {
+    width: 100;
+    border: 5px dotted rgb(255, 255, 255);
+    padding: 19px;
+    margin: 10px;
+    height: 300px;
+    margin-left: 500px;
+    font-weight: 600;
+}
+
+.saiyan-logo {
+    writing-mode: vertical-lr;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-size: 200;
+}
+
+#Saiyan-outer {
+    height: 70px;
+    width: 100%;
+    overflow: visible;
+}
+
+#Saiyan-goku-image {
+    height: 400px;
+    width: 80%;
+    background-repeat: no-repeat;
+    background-position: left; 
+}
+
+
+#roronoa-zoro-image {
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#anton_intro {
+    font-family: Anton;
+}
+
+#myCarousel {
+    width: 315px;
+    /* margin-bottom: 100px; */
+    /* margin-left: 400px; */
+    /* margin-left: 400px; */
+    margin: 0 auto;
+}
+
+
+.bg1 {
+    background-color: wheat;
+    background-attachment: fixed;
+    min-height: 200px;
+    font-family: Delius;
+    font-style: bold;
+    margin-bottom: 30px;
+
+}
+#intro_heading {
+    font-size: 60px;
+    margin: 0 auto;
+}
+
+.introductory_exercises {
+    font-family: Delius;
+    font-size: 30px;
+    width: 90%;
+}
+
+#font_character {
+    font-family: Lobster;
+    font-size: 40px;
+}
+
+.characters_intro {
+    font-size:20px;
+    font-family:Comic Sans MS,Georgia;
+    line-height:40px;
+    margin-top: 30px;
+}
+
+.characters_font_size {
+    font-size:25px;
+}
+
+.character_font_family {
+    font-style:30px;
+    font-family:Comic Sans MS,Georgia;
+    line-height:50px;
+}
+
+#video_attribute {
+    background-image:url('https://webdesignerdepot.s3.amazonaws.com/default-images/26.jpg');
+    font-family:Comic Sans MS;
+    margin-bottom: 30px;
+}
+
+#video_attribute_font_size1 {
+    font-size:40px;
+    margin-left: 40px;
+}
+
+#video_attribute_font_size2 {
+    font-size:35px;
+    color: rgb(225, 238, 238);
+    font-family: Chicle;
+    margin-left: 10px;
+}
+
+#carousel_background{
+    background-image: url('https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 300px;
+    background-position: center;
+    margin-top: 10px;
+}
+
+
+#character_big_size {
+    font-size:50px;
+    font-family: Bangers;
+    margin-left: 50px;
+}
+
+#character_character_intro {
+    font-size:30px;
+    font-family: Anton;
+    margin-left: 50px;
+
+}
+
+.j_us {
+    font-size: 30px;
+    font-family: Pacifico;
+}
+
+
+.heading-exercise {
+    color:white;
+    /* margin-left:600px; */
+    margin-bottom:10px;
+    font-family:Bangers;
+}
+
+#modak {
+    font-size:25px;
+    font-family:Modak;
+}
+
+#Luminari {
+    font-family:Luminari, fantasy;
+    font-size:30px;
+}
+
+#Luminari1 {
+    font-family:Luminari, fantasy;
+    font-size:25px;
+}
+
+
+#intro-statement {
+    margin-top:10px;
+    font-size:30px;
+    font-family:Indie Flower;
+    font-weight:600;
+    background: LightSteelBlue;
+    background-position: center;
+}
+
+#Bungee-Shade {
+    font-family:Bungee Shade;
+}
+
+.autmn_picture {
+    margin-top: 10px;
+    background-image: url('http://wallpaperstock.net/autumn_wallpapers_25381_1366x768.jpg');
+}
+
+#Berkshire {
+    font-size:35px;
+    font-family:Berkshire Swash, cursive;
+    background:Silver;
+    margin-right: 10px;
+    margin-top:10px;
+}
+
+.goku-munching {
+    background-image: url('https://cdn.allwallpaper.in/wallpapers/2048x1152/5470/texture-silver-2048x1152-wallpaper.jpg');
+    margin-top:10px;
+}
+
+#gym-statement {
+    font-family:Gotu;
+    font-style:bold;
+    font-size:30px;
+}
+
+.Chicle-style {
+    font-style:normal;
+    font-size:30px;
+    font-family:Chicle, sans-serif;
+}
+
+.child-style1 {
+    background-color:snow;
+    margin-right:5px;
+}
+
+.child-style2 {
+    background-color:thistle;
+    margin-right:5px;
+}
+
+.child-style3 {
+    background-color:gainsboro;
+    margin-right:5px;
+}
+
+.box-exercise {
+    margin-top:10px;
+}
+
+
+#video-style1 {
+    font-family:Arial, sans-serif;
+    font-stretch: ultra-condensed;
+    font-weight:600;
+    font-size:30px;
+}
+
+#Indie-Flower {
+    font-family:Indie Flower;
+    font-size:30px;
+    background: rgba(0, 0, 0, 0.551);
+    color: white;
+}
+
+
+#video-style2 {
+    font-family:Gotu;
+    font-stretch: ultra-condensed;
+    font-weight:600;
+    font-size:30px;
+}
+
+#white-color {
+    color: white;
+}
+
+#additional_characters {
+    background: rgba(128, 255, 0, 0.449);
+    font-family: Permanent Marker;
+    font-size: 49px;
+    font-style: bold;
+    margin-top: 10px;
+}
+
+.image_intro {
+    width: 100%;
+    height: 200px;
+}
+
+
+
+#footer_color {
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
