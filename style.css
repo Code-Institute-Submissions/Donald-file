@@ -65,6 +65,10 @@ body, html {
   height: 100%;
 }
 
+img.bg-light {
+    height: 90px;
+}
+
 .home-container {
     font-size: 30px;
     font-family: Bubblegum Sans;
