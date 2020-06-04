@@ -319,13 +319,13 @@ img.black-panther{
 }
 
 
-#character_big_size {
+.character_big_size {
     font-size:50px;
     font-family: Bangers;
     margin-left: 50px;
 }
 
-#character_character_intro {
+h5{
     font-size:30px;
     font-family: Anton;
     margin-left: 50px;
@@ -394,8 +394,12 @@ img.black-panther{
     margin: 10px;
 }
 
-.goku-intro{
+img.goku-intro{
     height: 500px;
+}
+
+img.saitama-intro{
+    height: 400px;
 }
 
 #goku-munching {
@@ -447,7 +451,7 @@ img.black-panther{
     font-size:30px;
 }
 
-#Indie-Flower {
+.Indie-Flower {
     font-family:Indie Flower;
     font-size:30px;
     background: rgba(0, 0, 0, 0.551);
@@ -466,7 +470,7 @@ img.black-panther{
     color: white;
 }
 
-#additional_characters {
+.additional_characters {
     background: rgba(128, 255, 0, 0.449);
     font-family: Permanent Marker;
     font-size: 40px;
@@ -477,6 +481,10 @@ img.black-panther{
 img.image_intro {
     width: 100%;
     height: 200px;
+}
+
+img.no-pain {
+    height: 300px;
 }
 
 #footer_color {
