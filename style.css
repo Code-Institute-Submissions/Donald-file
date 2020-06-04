@@ -8,8 +8,7 @@
 }
 
 
-
-#bg {
+.bg {
     background-image: url("https://wallpapermemory.com/uploads/254/dark-abstract-background-hd-1400x1050-322564.jpg");
     background-size: cover;
     background-attachment: fixed;
@@ -25,7 +24,6 @@ h2{
    margin: 3px;
    font-size: 25px;
 }
-
 
 
 ul {
@@ -67,6 +65,12 @@ body, html {
 
 img.bg-light {
     height: 90px;
+}
+
+img.black-panther{
+    height: 180px;
+    /*width: 220*/;
+    margin-bottom: 6px;
 }
 
 .home-container {
@@ -146,6 +150,15 @@ img.bg-light {
     margin-bottom: 30px;
     /*margin: 2px*/;
 }
+
+.orange-box{
+    background-color: orange;
+}
+
+.lavender-box{
+    background-color: lavender;
+    margin-bottom: 30px;
+}
 .colour-bull2 {
     opacity: 0.9;
     background-size: cover;
@@ -156,9 +169,10 @@ img.bg-light {
     margin-left: 20px;
 }
 
-#gym-worker {
+.gym-worker {
     margin-right: 25px;
     margin-top: 30px;
+    height: 60%;
 }
 
 
@@ -220,7 +234,7 @@ img.bg-light {
     background-position: right;
 }
 
-#anton_intro {
+.anton_intro {
     font-family: Anton;
 }
 
@@ -242,7 +256,7 @@ img.bg-light {
     margin-bottom: 30px;
 
 }
-#intro_heading {
+.intro_heading {
     font-size: 60px;
     margin: 0 auto;
 }
@@ -276,25 +290,25 @@ img.bg-light {
     line-height:50px;
 }
 
-#video_attribute {
+.video_attribute {
     background-image:url('https://webdesignerdepot.s3.amazonaws.com/default-images/26.jpg');
     font-family:Comic Sans MS;
     margin-bottom: 30px;
 }
 
-#video_attribute_font_size1 {
+.video_attribute_font_size1 {
     font-size:40px;
     margin-left: 40px;
 }
 
-#video_attribute_font_size2 {
+.video_attribute_font_size2 {
     font-size:35px;
     color: rgb(225, 238, 238);
     font-family: Chicle;
     margin-left: 30px;
 }
 
-#carousel_background{
+.carousel_background{
     background-image: url('https://images.unsplash.com/photo-1509721434272-b79147e0e708?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
     background-repeat: no-repeat;
     background-size: cover;
@@ -329,16 +343,15 @@ img.bg-light {
     /* margin-left:600px; */
     margin-bottom:10px;
     font-family:Bangers;
+    background-color: slategray;
 }
 
-#modak {
+.modak {
     font-size:25px;
     font-family:Modak;
 }
 
-#Luminari {
-    font-family:Luminari, fantasy;
-    font-size:30px;
+
 }
 
 #Luminari1 {
@@ -347,7 +360,7 @@ img.bg-light {
 }
 
 
-#intro-statement {
+.intro-statement {
     margin-top:10px;
     font-size:25px;
     font-family:Indie Flower;
@@ -357,8 +370,13 @@ img.bg-light {
     margin: 0 auto;
 }
 
-#Bungee-Shade {
+.Bungee-Shade {
     font-family:Bungee Shade;
+}
+
+.vegeta-and-goku{
+    height: 400px;
+    width: 300px;
 }
 
 .autmn_picture {
@@ -368,7 +386,7 @@ img.bg-light {
 
 #Berkshire {
     font-size:35px;
-    font-family:Berkshire Swash, cursive;
+    font-family:Comic Neue;
     background:Silver;
     margin-right: 10px;
     margin-top:10px;
@@ -376,7 +394,9 @@ img.bg-light {
     margin: 10px;
 }
 
-
+.goku-intro{
+    height: 500px;
+}
 
 #goku-munching {
     height: 410px;
@@ -420,8 +440,8 @@ img.bg-light {
 }
 
 
-#video-style1 {
-    font-family:Arial, sans-serif;
+.px-lg-5 {
+    font-family:Comic Neue;
     font-stretch: ultra-condensed;
     font-weight:600;
     font-size:30px;
@@ -454,7 +474,7 @@ img.bg-light {
     margin-top: 10px;
 }
 
-.image_intro {
+img.image_intro {
     width: 100%;
     height: 200px;
 }
