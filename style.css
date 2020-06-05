@@ -176,7 +176,7 @@ img.black-panther{
 }
 
 
-#comic-like {
+.comic-like {
     font-family: Comic Neue;
     font-style: bold;
 }
@@ -352,8 +352,6 @@ h5{
 }
 
 
-}
-
 #Luminari1 {
     font-family:Luminari, fantasy;
     font-size:25px;
@@ -412,7 +410,7 @@ img.saitama-intro{
     /*width: 420px*/;
 }
 
-#gym-statement {
+.gym-statement {
     font-family:Gotu;
     font-style:bold;
     font-size:30px;
@@ -443,7 +441,6 @@ img.saitama-intro{
     margin-top:10px;
 }
 
-
 .px-lg-5 {
     font-family:Comic Neue;
     font-stretch: ultra-condensed;
@@ -459,7 +456,7 @@ img.saitama-intro{
 }
 
 
-#video-style2 {
+.video-style2 {
     font-family:Gotu;
     font-stretch: ultra-condensed;
     font-weight:600;
@@ -487,7 +484,7 @@ img.no-pain {
     height: 300px;
 }
 
-#footer_color {
+.page-footer {
     background-color: black;
     color: white;
     margin-top: 30px;
