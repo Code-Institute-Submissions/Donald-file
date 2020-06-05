@@ -185,7 +185,7 @@ img.black-panther{
     background-color: rgb(117, 124, 200);
     /*margin-top: 25px*/;
     font-family: Bangers;
-    font-size: 30px;
+    font-size: 20px;
     margin: 2px;
     opacity: 0.9;
     margin-top: 20px;
@@ -285,7 +285,7 @@ img.black-panther{
 }
 
 .character_font_family {
-    font-style:30px;
+    font-style:20px;
     font-family:Comic Sans MS,Georgia;
     line-height:50px;
 }
@@ -382,7 +382,7 @@ h5{
     background-image: url('http://wallpaperstock.net/autumn_wallpapers_25381_1366x768.jpg');
 }
 
-#Berkshire {
+.Berkshire {
     font-size:35px;
     font-family:Comic Neue;
     background:Silver;
@@ -400,7 +400,7 @@ img.saitama-intro{
     height: 400px;
 }
 
-#goku-munching {
+img.goku-munching {
     height: 410px;
     margin: 0px;
     margin-right: 35px;
@@ -413,12 +413,12 @@ img.saitama-intro{
 .gym-statement {
     font-family:Gotu;
     font-style:bold;
-    font-size:30px;
+    font-size:20px;
 }
 
 .Chicle-style {
     font-style:normal;
-    font-size:30px;
+    font-size:20px;
     font-family:Chicle, sans-serif;
 }
 
@@ -446,11 +446,12 @@ img.saitama-intro{
     font-stretch: ultra-condensed;
     font-weight:600;
     font-size:30px;
+    margin-top: 10px;
 }
 
 .Indie-Flower {
     font-family:Indie Flower;
-    font-size:30px;
+    font-size:20px;
     background: rgba(0, 0, 0, 0.551);
     color: white;
 }
