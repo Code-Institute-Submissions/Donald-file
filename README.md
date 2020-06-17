@@ -246,9 +246,80 @@ https://www.pinterest.es/pin/859906122572561114/?nic_v1=1ajq3Fpg2KMzPp5P7Q2OOa0J
 ## Fonts  
 
 All of the fonts used in this project are from Google Fonts. They are all under the link in CSS styling. 
-## More website features
-As you navigate the website, there are pictures of some of the favorite anime characterssuch as Goku, Zoro, etc.
-Also you will be introduced to to different routine fitness and exercise and keep you in shape.
+
+# TECHNOLOGIES USED 
+
+- HTML5: this is used to create the major content of the website 
+
+- BOOTSTRAP 4.0.7: this is used to give a good and easily-understood outlook of the contents 
+
+- CSS3:  this is used to design the images and font style details 
+
+- FONT AWESOME: Used to input links and icons 
+
+- JQUERY and JSDELIVER: Both Javascript technologies used for DOM designs, video outputs, and carousel sliding 
+
+- Gitpod: this is used for making the project IDE 
+
+- Pigdom: used for testing website section 
+
+# DEPLOYMENT
+## Workspace preview deployment
+During work on the workspace, it is saved using the ctrl+S and the website is deployed externally for review using the code:
+- python3 -m http.server
+
+## open deployment
+After the work is saved, it will be finally deployed in these steps:
+- git add -A: this add all the files currently to the repository
+- git status: this check the status of the website
+- git commit -m "message": this allows for the commit of any files added
+- git push: this send the changes to the repository
+
+# TESTING
+
+## Browsing DevOp inspection tools 
+
+- Google Chrome inspection tool 
+
+- Mozilla Inspection tool (Note: there was a problem with the outlook of the Home page. This is due to overlap between the navbar insertions and the ul li elements. This is now resolved). 
+
+- Validation website for indicating CSS and HTML problems:  http://validator.w3.org 
+
+- Validation website for CSS errors only: https://autoprefixer.github.io/ 
+
+- Mobile Dev tools 
+
+- All Samsung Galaxy series 
+
+- All iPhone series 
+
+- All iPhone series 
+
+- All iPad Touch series 
+
+- Moto G4 
+
+- All Nexus series  
+
+- All Nokia series 
+
+- All Pixel series 
+
+## Mobile Browsing tools 
+
+- Google Chrome 
+
+- Safari Browser 
+
+- Mozilla Firefox 
+
+- Results of testing using Pigdom 
+
+The result tells me that the website is set up correctly. 
+
+The result is presented here below: 
+
+https://my.pingdom.com/data/report/uptime/6166901?from=2020-06-01T01%3A20%3A08Z&to=2020-06-08T01%3A20%3A08Z
 
 ## Opening the browser from gitpod
 To open the browser from the workspace, simply type in the following code: `python3 -m http.server`
