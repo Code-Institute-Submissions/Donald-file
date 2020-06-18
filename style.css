@@ -81,7 +81,7 @@ img.black-panther{
 }
 
 .home-font-design {
-    float: left;
+    /*float: left*/;
     margin: 1px;
     background-size: cover;
     text-align: center;

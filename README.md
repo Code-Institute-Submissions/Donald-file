@@ -321,7 +321,14 @@ The result is presented here below:
 
 https://my.pingdom.com/data/report/uptime/6166901?from=2020-06-01T01%3A20%3A08Z&to=2020-06-08T01%3A20%3A08Z
 
-## Opening the browser from gitpod
-To open the browser from the workspace, simply type in the following code: `python3 -m http.server`
+# ACKNOWLEDGEMENT  
+
+- I have to give huge thanks to Code Institute  for providing me this platform on creating this project 
+
+- In most of my project, I have received a lot of help from the tutors such as Michael Park, Tim Nelson, Anne Greaves, etc. And they have all my thanks. 
+
+- In addition, I have to give thanks to miscellaneous members of the Slack community to providing insights and hints to my questions that I posed 
+
+- Finally my tutor, Ashgar  
 
 
