@@ -313,13 +313,26 @@ After the work is saved, it will be finally deployed in these steps:
 
 - Mozilla Firefox 
 
-- Results of testing using Pigdom 
+## Results from using inspecting tools
+The web page on Chrome has a good outlook. However based on other web browsing platforms (e.g. Mozilla Firefox) as well as Physical mobile platforms the outlook has a bad outlook. Just like this (click on the link):
+https://oprdqw.db.files.1drv.com/y4m-w4taW3EG9o6HSsmNsR5_Gz9so5TzQsv4_lq_6c9mHb3vPdWRl2deBLJXaSWBjR7QrsIq4Ql4fSKF_sjvDcZODALMyxUm2h5T52Sd-271xdGrrgG3D-3oEqUJ4IbD6loVH3Z9jQFnPjaS-4FQ_l_9-k9zKMbE0gSKNmKISsgD16WEi4Skspx3SMhRcDxUfZPMVfbgPW6cCBlOJBYaIIg_A?width=1366&height=768&cropmode=none
+
+This is because while the floating pattern do not affect the web page on Chrome, unexplanably it affects all other browsing platforms. Also it is even affected on the Chrome browser on other workstations and desktops. 
+
+##  Results of testing using Pigdom 
 
 The result tells me that the website is set up correctly. 
 
-The result is presented here below: 
+The uptime result is presented here below: 
 
 https://my.pingdom.com/data/report/uptime/6166901?from=2020-06-01T01%3A20%3A08Z&to=2020-06-08T01%3A20%3A08Z
+
+Also are the samples of the screenshots of the page speed:
+- https://pordqw.db.files.1drv.com/y4mTFh7PZmoRVkoEyFKPVDTQK1Bx73VQp5Ct17FAfhHivKex9udg7jJwxDuGMYWEqkyRcluTw12iYeH0tA_leYUhQSKpKDqkpZYE5q2W4l7UmroJDe7L_rZ97Yh-XJ9K4EYmAqZF46h5WxGL6ZP5hvSCpbZ7Drf6QWk5tMi8ET6VVZfw0pwQlRZHZmW4UfAn8a7wKeJh9f6ANO8CyZyqrqvvg?width=1366&height=768&cropmode=none
+
+- https://perdqw.db.files.1drv.com/y4mKzkc9UdEX0C6Zp_Eq6MmYTfsLuuhP6iPy93iz6OufY3QXpbLkCGkN7qStRFSeVw3oBw53OgJgeXpNxF7HRK8EgpgqRY1Fbd5cyBlaOw6GehMsm-AuPVjJ4PaMzds0Lx8_pn4yOT0LdDR0eR1u-PrR3J355aCvC8PjeLphR1LkUTYBLpFIiAV9TSVxre_b0pn355BX4_Fd0AHQcF_-Id4KQ?width=1366&height=768&cropmode=none
+
+- https://pprdqw.db.files.1drv.com/y4mMRMhM1Sl7tCfI_W33Sa7nMeM78kVCj20MrWyLwb3GxqzaV95W6cxPPq80HEdyePh-ThDTvTBC6E215etLbnLacbsooh3Y9Cdp072Zm1GM1vhmLsIptCrIXrhQEyVQe1TC8_gT_gWkDA6gpguJq7XKwlv11A-Tx5RYbaTjLr-rZ20UQyWzV_VVqSJXU1pNsBZNIMM2CSVPzk2hYkFoWEo3w?width=1366&height=768&cropmode=none
 
 # ACKNOWLEDGEMENT  
 
