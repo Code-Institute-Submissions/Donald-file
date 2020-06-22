@@ -74,26 +74,6 @@ https://www.pinterest.ca/pin/804666658401655833/
 
 https://www.pinterest.nz/pin/672021575631633188/?nic_v1=1aDvjUJt%2BPHIQUBwsnXzSy9vfIF1HW3UPWyPKgha0E7%2F7FkgT9yUkM0cnezca7zUyZ 
 
-- Baki 
-
-https://i.pinimg.com/564x/39/01/3e/39013efd86d7e796df4921ebbdccd63b.jpg 
-
-https://www.pinterest.co.uk/pin/774619204642418635/?nic_v1=1aQblCj5UV0HAI1KsNwjexNdnwQ0Id%2FnYfEtuY5bnVogpi7Ppop5xnMJMqq38f1B3O 
-
-https://www.pinterest.ca/pin/626070785676988337/?nic_v1=1avR3YxfrcNrniVagKqWf%2FUg0kL9OjRW8wcChYKNyC5A7UecxZLaBsH3KwY2ZaNJH7 
-
-https://www.pinterest.co.uk/pin/681239881113985529/?nic_v1=1aJU9Aqm7OMFvR1awJKxEHqZAm9%2FgWyr%2BYUuoyktRUf10WZxFrZEGHQ0sbuLqZv31Q 
-
-https://www.pinterest.co.uk/pin/701717185673717288/?nic_v1=1aRgUjvkvM7rPs1%2B5ZuZF9RjKWGu4YN0l0owyJgBAM%2BEeGMA4FamhtQrT8bNGnyAJV 
-
-https://www.pinterest.co.uk/pin/630011435359384581/?nic_v1=1aQ%2BVvkKGYerV%2BrtYiPCQWd6ZuXWVgKYqNvIj0UVwJso85x6%2F0lhIRVdm4vEpiRN15 
-
-https://www.pinterest.co.uk/pin/713820609676496345/?nic_v1=1aEoI%2FFGAqeRKqxtwalbVHT6lrsHJ%2B5QWlN19XwwUuYsCVqNZWxpJYLYWmK%2FrJnj3Y 
-
-https://www.zerochan.net/Hanma+Baki 
-
- 
-
 - Characters  
 
 https://www.pinterest.co.uk/pin/765823111626369580/?nic_v1=1aunJHVPDGbXbW9CXzYEF63TPzX5B0iSIR%2FWy8tLHf%2FOG9v%2BYw3rec8ZzCLv55Q6aV 
@@ -141,69 +121,8 @@ https://www.pinterest.co.uk/pin/340795896787802908/?nic_v1=1awuiKKNEUzCAXLhxSlwy
 - Join-us 
 
 https://www.pinterest.co.uk/pin/820569994590795103/?nic_v1=1aAGi%2F6Y%2BGt2n1Et4e4okfpI8t3Lgi9SAV%2Fa0PyJThFStqvMFY4yFS763C0fjFTX4m 
-
-- More characters 
-
-https://www.pinterest.co.uk/pin/676806650236157155/?nic_v1=1a7dm2J1uVj8wRrG5d8fLcMGwNtz62dSWh9ZNdlqCUHF3fMnbV4C7y9%2Fdx88n2ZL65 
-
-https://www.facebook.com/pages/category/Organization/Team-No-Pain-No-Gain-781195605376977/ 
-
-- Roronoa Zoro 
-
-https://www.pngguru.com/free-transparent-background-png-clipart-bzxih 
-
-https://www.spreadshirt.com/shop/design/push+your+limit+roronoa+zoro+unisex+jersey+t-shirt-D5d8a0b3d6bbdbb2e6a641e73?sellable=zrd8944NVATgrJNLap9Q-175-7&view=D1 
-
-https://www.pinterest.co.uk/pin/702420873109853894/?nic_v1=1aQgbkLdkanvUfOJNk%2B9Zxbuk%2Bc6Z%2F6ra%2F4uhQxnS8kGfe8l3Yoqfwp2rmoqz5C2Qu 
-
-https://www.pinterest.co.uk/pin/729090627159781949/?nic_v1=1aoI92WLZ00bE2AeU01fSuk6%2B%2FCdKgBZhiByVl4%2FYVDDHCEVLNufOyb2q1g4xJiOiS 
-
-https://cotvn.net/bo-suu-tap-fanart-roronoa-zoro-cuc-chat.html 
-
-https://www.pinterest.co.uk/pin/360288038937641005/?nic_v1=1aBdwD8BcaTjbnP4%2F5FxzJ6LUa0rmrTTS9iPK5Lp1Xgmpqr%2B%2FhBLgrCAhGehRLZHKB 
-
-https://www.pinterest.fr/pin/696721004843052096/ 
-
-https://cloudcity7.com/products/training-to-beat-mihawk-roronoa-zoro-mens-varsity-jacket?variant=44118469127 
-
-- Saitama  
-
-https://www.pinterest.co.uk/pin/456833955930859670/?nic_v1=1aCznOXnXApIKA0B6S2vaYLKpC1Mrj7Kuqn7zLVG0XCgwkVbR5ltbDi4kZszwSTk%2FA 
-
-https://www.pinterest.co.uk/pin/487303622174317589/?nic_v1=1aOrpV40jz0Zzml7nPyxnkgMST8UXrj%2FfKWBKWSunATVHpHYSepFg6gUvoHM2Ft51S 
-
-https://www.pinterest.co.uk/pin/638033472190253623/?nic_v1=1aCDULpqgMVxXUpxF45W5bSyT3svIn8QCyZRvpV%2BLzCDzZKD5mXjj%2BBs1ru5flDqr4 
-
-https://www.pinterest.co.uk/pin/637822365963096767/?nic_v1=1aiszXdXUJ6h3AdcOGnFC%2BudKu%2F1lAMrKnBE5dHj3fPGic%2BhxuNQHQM2yvkjJeorKi 
-
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ffi.pinterest.com%2Fpin%2F731483164458764040%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%7B%7Bdefault.session%7D%7D%26simplified%3Dtrue&psig=AOvVaw1tKjlNFRf5E3hiBrvIqQ3s&ust=1592083260639000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDN77ya_ekCFQAAAAAdAAAAABAD 
-
-https://www.pinterest.co.uk/pin/180707003780513877/?nic_v1=1a95ZWaRGJ%2FnMYI9SoVTbg2KtAhR%2FaYhU4t8a5Takkwk5rOZ2Icbx%2B2P9L%2FDqz4ttX 
-
-https://www.pinterest.co.uk/pin/214695107223073074/?nic_v1=1aTqGCcP7GMMaSRVI%2BmNNYMqfbfOauAqs8cp%2FO0F7u5SNd%2FeHW%2B7w1LG1%2FaQVTRXH2 
-
-- Vegeta  
-
-https://www.giantbomb.com/vegeta/3005-445/ 
-
-https://www.pinterest.co.uk/pin/565624034424827579/?nic_v1=1aODqrx6bgQnFXOi%2FamJNC5ZRvWL%2FfxooI%2BDQnZ54IwsoLfP2IgxXjZ4G9binfvQbT 
-
-https://www.pinterest.co.uk/pin/629167010429763643/?nic_v1=1aFOg3BAo8KiyS7axypzxUEicvqxffNWDDalJRLOGj6XRCdtbhYYyvqfanI5uSJEQi 
-
-https://www.pinterest.co.uk/pin/578501514620744025/?nic_v1=1aQUQrxvSQVKQyqY2McOYWi0nZxbfMOS4109DBmKUwax%2B2n7uZVUsNBEIrew3FgPpA 
-
-https://www.pinterest.co.uk/pin/562809284664126596/?nic_v1=1a%2BxANVolJdH9dRQpFnuwkYSd%2F6QGhO8K1HrSBrtmg9Wc5vsKf471HM66EIj6Y0unY 
-
-https://www.pinterest.co.uk/pin/809662839237167771/?nic_v1=1a8%2FeG6l%2BK6Sc7akPEOKPDIOWi3dWClgLuLWmDn8PbMJZVvAGuqZUx2c07LwqfFE2z 
-
-https://www.pinterest.fr/pin/339388521923669964/?nic_v1=1aP7V07F2r7mtVZhCmf4xKnpdkKTxcQl4Z7Uhuim%2BwMUFe0EXb1lYPREbb59MB4G8p 
-
-https://www.pinterest.co.uk/pin/610167449492982118/?nic_v1=1a8nJuI0Vey5k6MKPp%2B9nQjdIsYtaty1HOWgrFxzOf3RWNDvBaSbjF6sV%2FFduvIZVn 
-
-https://www.pinterest.ca/pin/732046114412925970/?nic_v1=1a2QbcrnHQc5%2F0QZkkx9ivlsQUD%2F%2FfiUHN2xLWOeHII1Fosul5ktyH%2Bguq9yerJHos 
-
-https://www.pinterest.es/pin/859906122572561114/?nic_v1=1ajq3Fpg2KMzPp5P7Q2OOa0J969%2FXu%2B7t6c2wJAZeSxAxdtyG5uGbavKNzlXX5CU7b 
-
+ 
+ 
 ## Colours used 
 
 - YellowGreen:#9acd32 

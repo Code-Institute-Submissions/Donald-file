@@ -67,12 +67,6 @@ img.bg-light {
     height: 90px;
 }
 
-img.black-panther{
-    height: 180px;
-    /*width: 220*/;
-    margin-bottom: 6px;
-}
-
 .home-container {
     font-size: 25px;
     font-family: Bubblegum Sans;
@@ -134,21 +128,23 @@ img.black-panther{
 
 .colour-bull{
     opacity: 0.9;
-    background-size: cover;
-    border: none;
-    height: 400px;
-    width: 271px;
-    float: right;
-    margin-top: 29px;
-    margin-right: 21px;
+   /* background-size: cover*/;
+   /* border: none*/;
+    height: 450px;
+    width: 300px*/;
+    /*float: right*/;
+    /*margin-top: 20px*/;
+    /*margin-right: 1px*/;
 }
 
 .black-box{
     background-color: black;
     color: white;
     /*margin-top: 30px*/;
-    margin-bottom: 30px;
+    /*margin-bottom: 30px*/;
     /*margin: 2px*/;
+    padding-top: 70px;
+    height: 450px;
 }
 
 .orange-box{
@@ -161,12 +157,12 @@ img.black-panther{
 }
 .colour-bull2 {
     opacity: 0.9;
-    background-size: cover;
-    border: none;
-    height: 400px;
+    /*background-size: cover*/;
+    /*border: none*/;
+    height: 450px;
     width: 280px;
-    margin-top: 30px;
-    margin-left: 20px;
+    /*margin-top: 10px*/;
+    /*margin-left: 0px*/;
 }
 
 .gym-worker {
@@ -186,7 +182,7 @@ img.black-panther{
     /*margin-top: 25px*/;
     font-family: Bangers;
     font-size: 20px;
-    margin: 2px;
+    /*margin: 2px*/;
     opacity: 0.9;
     margin-top: 20px;
 
@@ -235,7 +231,7 @@ img.black-panther{
 }
 
 .anton_intro {
-    font-family: Anton;
+    font-size: 30px;
 }
 
 #myCarousel {
@@ -267,7 +263,7 @@ img.black-panther{
     width: 90%;
 }
 
-#font_character {
+.font_character {
     font-family: Lobster;
     font-size: 40px;
     margin-left: 20px;
@@ -294,6 +290,7 @@ img.black-panther{
     background-image:url('https://webdesignerdepot.s3.amazonaws.com/default-images/26.jpg');
     font-family:Comic Sans MS;
     margin-bottom: 30px;
+    text-align: center;
 }
 
 .video_attribute_font_size1 {
@@ -306,6 +303,7 @@ img.black-panther{
     color: rgb(225, 238, 238);
     font-family: Chicle;
     margin-left: 30px;
+    text-align: center;
 }
 
 .carousel_background{
@@ -361,17 +359,16 @@ h5{
 .intro-statement {
     margin-top:10px;
     font-size:25px;
-    font-family:Indie Flower;
     font-weight:600;
+    font-family:Indie Flower;
     background: LightSteelBlue;
     background-position: center;
     margin: 0 auto;
 }
 
-.Bungee-Shade {
-    font-family:Bungee Shade;
+.intro-statement-2{
+    font-family:Indie Flower;
 }
-
 .vegeta-and-goku{
     height: 400px;
     width: 300px;
@@ -384,7 +381,7 @@ h5{
 
 .Berkshire {
     font-size:35px;
-    font-family:Comic Neue;
+    font-family:Indie Flower;
     background:Silver;
     margin-right: 10px;
     margin-top:10px;
@@ -411,30 +408,35 @@ img.goku-munching {
 }
 
 .gym-statement {
-    font-family:Gotu;
+    font-family:Indie Flower;
     font-style:bold;
+    font-weight: 600;
     font-size:25px;
 }
 
 .Chicle-style {
-    font-style:normal;
+    font-style:bold;
     font-size:20px;
-    font-family:Chicle, sans-serif;
+    font-family:Indie Flower;
 }
 
 .child-style1 {
     background-color:snow;
     margin-right:5px;
+    font-size: 25px
 }
 
 .child-style2 {
     background-color:thistle;
     margin-right:5px;
+    font-size: 25px;
 }
 
 .child-style3 {
     background-color:gainsboro;
     margin-right:5px;
+    padding-top: 9px;
+    font-size: 30px;
 }
 
 .box-exercise {
@@ -442,9 +444,9 @@ img.goku-munching {
 }
 
 .px-lg-5 {
-    font-family:Comic Neue;
+    font-family:Indie Flower;
     font-stretch: ultra-condensed;
-    font-weight:600;
+    font-weight:400;
     font-size:30px;
     margin-top: 10px;
 }
@@ -488,7 +490,11 @@ img.no-pain {
 .page-footer {
     background-color: black;
     color: white;
-    margin-top: 30px;
+    /*margin-top: 30px*/;
+}
+
+footer ul{
+    margin-bottom: 50px;
 }
 
 .list-inline-item {
