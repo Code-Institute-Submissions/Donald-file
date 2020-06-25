@@ -30,6 +30,7 @@ This project is meant to provide guidance to young graduates as well as universi
 This website is made up 4 major pages with the several character pages to choose from. Also included are several exercises to choose from by clicking from the exercise tab.
 
 ## Wireframing  
+This is a brief sketch of what the website will be like. Here is the final layout [here](https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/fileexport/Export_De1a2746c430db5bc44f661017e11f4ad.pdf)
 
 # FEATURES 
 
