@@ -36,7 +36,7 @@ This is a brief sketch of what the website will be like. Here is the final layou
 
 In this website are several features to explore from. They are design using the workspace.  
 
-Here is a screenshot of my Home.html workspace:
+Here is a screenshot of my Home Index.html workspace:
     <img src="https://efscrq.db.files.1drv.com/y4mSSuXGlCND0Clv137e2cUYtcWlM82BKMh7FMtyhZfQG1jJNcrTQE-v_292aBOa6uC6BNnWE0IYtDSRXtJ3sekC9E2Z9wpe7kY04E8GaamfzKLqaar3uz3pbRr3liMlj8gf_nojEoU1Zx8zJWRoZyzhUugVytL_wysHxZJ4GT1mUwHFQrAO4m9ZdFTSfdd56GV6LK6Lu_-GdCldN3dKAUd-w?width=1360&height=508&cropmode=none" alt= "Saiyan's Gym"/>
     <img src="https://avu3iq.db.files.1drv.com/y4maVxOuS2Y02rrmWPQtSsb2POPKu9NhiTlR5ITG8caGfb9G3kzrVzoLdD2Uyn_GrYnGlp2Me4_BRMoJDF6ItPN_IseOS26hmjKv83Wy7_n6A06d7-Gz7yNo1TcLD6GGI-w18OdWZVmtlEID7AwWbm68zOPwqAmzv3-8ynN0tw71BsPw0fjfWmj4jYlHK_B3g2d7jtUhn7rYfwkXBce71hMEg?width=1154&height=487&cropmode=none" alt="Saiyan's Gym"/>
 
