@@ -264,6 +264,6 @@ Also are the samples of the screenshots of the page speed:
 
 - In addition, I have to give thanks to miscellaneous members of the Slack community to providing insights and hints to my questions that I posed 
 
-- Finally my tutor, Ashgar  
+- Finally my tutor, Akshat 
 
 
