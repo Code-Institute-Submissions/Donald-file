@@ -135,6 +135,8 @@ img.bg-light {
     /*float: right*/;
     /*margin-top: 20px*/;
     /*margin-right: 1px*/;
+    padding-left: 50px;
+    padding-bottom: 20px;
 }
 
 .black-box{
@@ -185,7 +187,7 @@ img.bg-light {
     /*margin: 2px*/;
     opacity: 0.9;
     margin-top: 20px;
-
+    padding: 20px;
 }
 
 .gym-spacing-blue {
@@ -250,7 +252,7 @@ img.bg-light {
     font-family: Delius;
     font-style: bold;
     margin-bottom: 30px;
-
+    padding: 10px;
 }
 .intro_heading {
     font-size: 60px;
@@ -266,7 +268,7 @@ img.bg-light {
 .font_character {
     font-family: Lobster;
     font-size: 40px;
-    margin-left: 20px;
+    padding-left: 70px;
 }
 
 .characters_intro {
@@ -412,12 +414,14 @@ img.goku-munching {
     font-style:bold;
     font-weight: 600;
     font-size:25px;
+    padding: 40px;
 }
 
 .Chicle-style {
     font-style:bold;
     font-size:20px;
     font-family:Indie Flower;
+    padding: 40px;
 }
 
 .child-style1 {
@@ -494,9 +498,12 @@ img.no-pain {
 }
 
 footer ul{
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 
+footer p.text-center{
+    margin-bottom: 40px;
+}
 .list-inline-item {
     margin-right: 8px;
 }
