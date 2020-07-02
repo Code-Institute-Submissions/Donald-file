@@ -262,8 +262,8 @@ Also are the samples of the screenshots of the page speed:
 
 - In most of my project, I have received a lot of help from the tutors such as Michael Park, Tim Nelson, Anne Greaves, etc. And they have all my thanks. 
 
-- In addition, I have to give thanks to miscellaneous members of the Slack community to providing insights and hints to my questions that I posed 
+- In addition, I have to give thanks to miscellaneous members of the Slack community for providing insights and hints to my questions that I posed 
 
-- Finally my tutor, Akshat 
+- Finally my appreciation to my tutor, Akshat 
 
 
